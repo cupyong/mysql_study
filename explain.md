@@ -38,7 +38,7 @@ mysql> show warnings;
 
 ```
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
+
 
 2）**explain partitions**：相比 explain 多了个 partitions 字段，如果查询是基于分区表的话，会显示查询将访问的分区。
 
@@ -52,7 +52,6 @@ id列的编号是 select 的序列号，有几个 select 就有几个id，并且
 
 1）简单子查询
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 ```
 mysql> explain select (select 1 from actor limit 1) from film;
@@ -80,13 +79,13 @@ mysql> explain select id from (select id from film) as der;
 +----+-------------+------------+-------+---------------+----------+---------+------+------+-------------+
 ```
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
+
 
 这个查询执行时有个临时表别名为der，外部 select 查询引用了这个临时表
 
 3）union查询
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
+
 
 ```
 mysql> explain select 1 union all select 1;
