@@ -1,5 +1,5 @@
 ###  MYSQL 相关知识点总结
 
-[explain](explain.md "explain")
+[Explain简介](explain.md "Explain简介")
 
 
