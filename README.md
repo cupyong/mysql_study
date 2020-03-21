@@ -6,6 +6,6 @@
 - [分表分库分页查询](分表分库分页查询.md "分表分库分页查询")
 - [mycat](mycat "mycat")
   - [1.基于docker安装mycat.md](mycat/1.基于docker安装mycat.md)
-  - [2.1.基于docker安装mycat.md](mycat/2.1.基于docker部署主从mysql服务.md)
-  - [2.2.基于docker安装mycat.md](mycat/2.2.基于docker部署主从mysql服务.md)
+  - [2.1.基于docker安装mysql服务](mycat/2.1.基于docker部署主从mysql服务.md)
+  - [2.2.基于docker安装mysql服务](mycat/2.2.基于docker部署主从mysql服务.md)
 
