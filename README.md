@@ -11,5 +11,5 @@
   - [2.2.基于docker安装mysql服务](mycat/2.2.基于docker部署主从mysql服务.md)
   - [3.1.基于docker安装mysql服务](mycat/3.1mycat配置主从数据库.md)
   - [3.2.mycat配置讲解](mycat/3.2.mycat配置讲解.md)
-  - [ 4.1.搭建2主2从服务器.md](mycat/ 4.1.搭建2主2从服务器.md)
+  - [4.1.搭建2主2从服务器.md](mycat/ 4.1.搭建2主2从服务器.md)
 
