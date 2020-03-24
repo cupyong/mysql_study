@@ -12,4 +12,5 @@
   - [3.1.基于docker安装mysql服务](mycat/3.1mycat配置主从数据库.md)
   - [3.2.mycat配置讲解](mycat/3.2.mycat配置讲解.md)
   - [4.1.搭建2主2从服务器](mycat/mycat/4.1.搭建2主2从服务器.md)
+  - [5.垂直分布与水平分布](mycat/mycat/5.垂直分布与水平分布.md) ​
 
